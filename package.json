@@ -29,6 +29,7 @@
     "@prisma/adapter-better-sqlite3": "^7.10.0",
     "@prisma/client": "^6.19.3",
     "@prisma/config": "^7.10.0",
+    "@types/passport-jwt": "^4.0.1",
     "bcryptjs": "^3.0.3",
     "dotenv": "^18.0.5",
     "passport": "^0.7.0",
